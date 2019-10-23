@@ -2,6 +2,8 @@
 # Remove Background Image
 <h3>Installing</h3><br>
 $ pkg install git python2<br>
+$ ln -s /sdcard<br>
+$ cd sdcard<br>
 $ pip2 install -U pip requests<br>
 $ git clone https://github.com/Al2VyN/Remove-Bg<br>
 $ cd Remove-Bg<br>
